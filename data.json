@@ -1,0 +1,56 @@
+{
+    "showcaseWork": [
+        {
+            "title": "Driveway Transformation",
+            "description": "Before & After: Spotless results in just hours.",
+            "image": "https://images.unsplash.com/photo-1590333749129-5d87f1c593fb?q=80&w=400"
+        },
+        {
+            "title": "House Exterior",
+            "description": "Revitalized siding with zero damage.",
+            "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=400"
+        },
+        {
+            "title": "Deck Restoration",
+            "description": "Back to beauty with eco-friendly cleaning.",
+            "image": "https://images.unsplash.com/photo-1592595896550-12c7e8c54b25?q=80&w=400"
+        }
+    ],
+    "testimonials": [
+        {
+            "quote": "My driveway looks brand new! Amazing service.",
+            "author": "Sarah T.",
+            "rating": 5
+        },
+        {
+            "quote": "Professional and fast. Highly recommend!",
+            "author": "Mike R.",
+            "rating": 4.5
+        },
+        {
+            "quote": "The deck cleaning exceeded my expectations.",
+            "author": "Emily K.",
+            "rating": 5
+        }
+    ],
+    "blogPosts": [
+        {
+            "title": "How to Maintain Your Deck",
+            "summary": "Top tips for keeping your deck pristine year-round.",
+            "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=400"
+        },
+        {
+            "title": "Driveway Cleaning 101",
+            "summary": "Learn the best techniques for a spotless driveway.",
+            "image": "https://images.unsplash.com/photo-1590333749129-5d87f1c593fb?q=80&w=400"
+        },
+        {
+            "title": "Why Pressure Wash Your Home",
+            "summary": "Boost curb appeal and property value.",
+            "image": "https://images.unsplash.com/photo-1592595896550-12c7e8c54b25?q=80&w=400"
+        },
+        {
+            "presets": ["@babel/preset-react", "@babel/preset-env"]
+        }
+    ]
+}
